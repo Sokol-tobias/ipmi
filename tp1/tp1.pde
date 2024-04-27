@@ -1,8 +1,8 @@
 /*
 Nombre: Sokol Tobias Ezequiel
- legajo:120375/9
  Comision 5
- */
+TP1
+*/
 
 PImage durazno;
 int fondo=255;
